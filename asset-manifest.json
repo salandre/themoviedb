@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/themoviedb/static/css/main.2cdde496.css",
+    "main.js": "/themoviedb/static/js/main.dfeed63d.js",
+    "static/media/Dongle-Regular.ttf": "/themoviedb/static/media/Dongle-Regular.be19c2ab1576230dd28d.ttf",
+    "static/media/Dongle-Light.ttf": "/themoviedb/static/media/Dongle-Light.099c1b232ee32aedbc6d.ttf",
+    "index.html": "/themoviedb/index.html",
+    "main.2cdde496.css.map": "/themoviedb/static/css/main.2cdde496.css.map",
+    "main.dfeed63d.js.map": "/themoviedb/static/js/main.dfeed63d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cdde496.css",
+    "static/js/main.dfeed63d.js"
+  ]
+}
